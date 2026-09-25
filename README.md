@@ -1,6 +1,6 @@
 # Rikus Weather
 
-**The weather on your Xfce or GNOME desktop — right on your wallpaper, from shimmering ceramic to liquid glass.**
+**The weather on your Xfce, Cinnamon or GNOME desktop — right on your wallpaper, from shimmering ceramic to liquid glass.**
 Free of charge, no sign-up, no code.
 
 ➡️ **Website and download: https://weather.rikus.info**
@@ -27,7 +27,7 @@ button in the panel, on every workspace — like a look out of the window.
 - **A right-click** on the card opens the settings.
 - The card speaks **German or English** — just as your computer is set.
 
-### Install (Xfce — for example Debian 13 with Xfce)
+### Install (Xfce and Cinnamon — for example Linux Mint 22.3 with Xfce or Cinnamon, or Debian 13 with Xfce)
 
 Add the package repository once:
 
@@ -66,14 +66,16 @@ along the whole GNOME environment. Or download the file directly on **https://we
 
 ### What you need
 
-**The Xfce desktop** for the package rikus-weather — **or GNOME 48** for the package
+**The Xfce or the Cinnamon desktop** for the package rikus-weather — **or GNOME 48** for the package
 rikus-weather-gnome — and an internet connection for the weather data. On other desktops such as
-Cinnamon or KDE the card has not been tried out yet, and other GNOME versions neither. For the
-see-through glass on Xfce, compositing has to be switched on.
+KDE the card has not been tried out yet, and other GNOME versions neither. For the see-through
+glass on Xfce, compositing has to be switched on; Cinnamon always has it on.
 
 ### Current version
 
-**1.0** (25 September 2026) — the first version, for Xfce (rikus-weather) and GNOME 48 (rikus-weather-gnome).
+**1.1** (25 September 2026) — rikus-weather now also runs on Cinnamon (Linux Mint): in the start menu and
+starting by itself after login. With an enlarged display, for example 125 percent, the card sits exactly
+where you chose. New program icon with a yellow sun. The GNOME package rikus-weather-gnome stays at 1.0.
 All changes, in German and English: https://weather.rikus.info/aenderungen
 
 ### Where the code lives
@@ -105,7 +107,7 @@ ohne Knopf in der Leiste, auf jede Arbeitsfläche — wie ein Blick aus dem Fens
 - **Ein Rechtsklick** auf die Karte öffnet die Einstellungen.
 - Die Karte spricht **Deutsch oder Englisch** — so, wie der Rechner eingestellt ist.
 
-### Installieren (Xfce — zum Beispiel Debian 13 mit Xfce)
+### Installieren (Xfce und Cinnamon — zum Beispiel Linux Mint 22.3 mit Xfce oder Cinnamon, oder Debian 13 mit Xfce)
 
 Die Paketquelle einmal eintragen:
 
@@ -145,14 +147,16 @@ einem anderen Desktop würde es die ganze GNOME-Oberfläche mitbringen. Oder die
 
 ### Was du brauchst
 
-**Den Xfce-Desktop** für das Paket rikus-weather — **oder GNOME 48** für das Paket
+**Den Xfce- oder den Cinnamon-Desktop** für das Paket rikus-weather — **oder GNOME 48** für das Paket
 rikus-weather-gnome — und eine Internetverbindung für die Wetterdaten. Auf anderen Oberflächen wie
-Cinnamon oder KDE ist die Karte noch nicht erprobt, andere GNOME-Fassungen ebenfalls nicht. Damit
-das Glas unter Xfce durchsichtig sein kann, muss das Compositing eingeschaltet sein.
+KDE ist die Karte noch nicht erprobt, andere GNOME-Fassungen ebenfalls nicht. Damit das Glas unter
+Xfce durchsichtig sein kann, muss das Compositing eingeschaltet sein; Cinnamon hat es immer an.
 
 ### Aktuelle Fassung
 
-**1.0** (25. September 2026) — die erste Fassung, für Xfce (rikus-weather) und GNOME 48 (rikus-weather-gnome).
+**1.1** (25. September 2026) — rikus-weather läuft jetzt auch auf Cinnamon (Linux Mint): im Startmenü und nach
+dem Anmelden von selbst. Bei vergrößerter Anzeige, zum Beispiel 125 Prozent, steht die Karte genau an der
+gewählten Stelle. Neues Programmsymbol mit gelber Sonne. Das GNOME-Paket rikus-weather-gnome bleibt bei 1.0.
 Alle Änderungen, deutsch und englisch: https://weather.rikus.info/aenderungen
 
 ### Wo der Quelltext liegt
