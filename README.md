@@ -73,9 +73,9 @@ glass on Xfce, compositing has to be switched on; Cinnamon always has it on.
 
 ### Current version
 
-**1.1** (25 September 2026) — rikus-weather now also runs on Cinnamon (Linux Mint): in the start menu and
-starting by itself after login. With an enlarged display, for example 125 percent, the card sits exactly
-where you chose. New program icon with a yellow sun. The GNOME package rikus-weather-gnome stays at 1.0.
+**1.2** (1 October 2026) — When the sky is overcast, there is now one picture for the day and another
+for the night. Before, the cloud picture in the round field looked like a full moon, even in the morning.
+The GNOME package rikus-weather-gnome 1.1 gets the same pictures and the program icon with the yellow sun.
 All changes, in German and English: https://weather.rikus.info/aenderungen
 
 ### Where the code lives
@@ -154,9 +154,9 @@ Xfce durchsichtig sein kann, muss das Compositing eingeschaltet sein; Cinnamon h
 
 ### Aktuelle Fassung
 
-**1.1** (25. September 2026) — rikus-weather läuft jetzt auch auf Cinnamon (Linux Mint): im Startmenü und nach
-dem Anmelden von selbst. Bei vergrößerter Anzeige, zum Beispiel 125 Prozent, steht die Karte genau an der
-gewählten Stelle. Neues Programmsymbol mit gelber Sonne. Das GNOME-Paket rikus-weather-gnome bleibt bei 1.0.
+**1.2** (1. Oktober 2026) — Bei bedecktem Himmel gibt es jetzt ein eigenes Bild für den Tag und eines
+für die Nacht. Vorher sah das Wolkenbild im runden Feld aus wie ein Vollmond, auch am Vormittag.
+Das GNOME-Paket rikus-weather-gnome 1.1 bekommt dieselben Bilder und das Programmsymbol mit der gelben Sonne.
 Alle Änderungen, deutsch und englisch: https://weather.rikus.info/aenderungen
 
 ### Wo der Quelltext liegt
