@@ -76,7 +76,7 @@ glass on Xfce, compositing has to be switched on; Cinnamon always has it on.
 **1.3.1** (14 October 2026) — Matte can now be see-through: the transparency slider takes the matte card
 down to a quarter of its opacity, flat and calm, with your wallpaper shining through. Since 1.3: the new look
 "Matte" (default, switch at the top of the settings or in the header), liquid glass still available, and
-"Choose my own" uses your color exactly, including black, gray and white. rikus-weather-gnome stays at 1.1.
+"Choose my own" uses your color exactly, including black, gray and white. rikus-weather-gnome (GNOME) is at 1.3.1 too.
 All changes, in German and English: https://weather.rikus.info/aenderungen
 
 ### Where the code lives
@@ -158,7 +158,7 @@ Xfce durchsichtig sein kann, muss das Compositing eingeschaltet sein; Cinnamon h
 **1.3.1** (14. Oktober 2026) — Matt kann jetzt auch durchsichtig: Der Regler macht die matte Karte bis auf ein
 Viertel Deckkraft durchsichtig matt, flach und ruhig, dein Hintergrundbild scheint durch. Seit 1.3: das neue Aussehen
 »Matt« (Standard, umschalten ganz oben in den Einstellungen oder im Kopf), Flüssiges Glas weiter wählbar, und
-»Selbst wählen« übernimmt die Farbe genau, auch Schwarz, Grau und Weiß. rikus-weather-gnome bleibt bei 1.1.
+»Selbst wählen« übernimmt die Farbe genau, auch Schwarz, Grau und Weiß. Auch rikus-weather-gnome (GNOME) steht auf 1.3.1.
 Alle Änderungen, deutsch und englisch: https://weather.rikus.info/aenderungen
 
 ### Wo der Quelltext liegt
